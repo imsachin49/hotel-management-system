@@ -1,0 +1,202 @@
+[
+    {
+        "id": "9c14c478-026c-4d19-98c2-cdba1e844059",
+        "bedType": "double",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "0bafec81-5258-44a8-910d-9c93f9fca1e3",
+        "bedType": "single",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "fa0870d1-9faf-4d95-9da7-1f8485d05193",
+        "bedType": "double",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "2048e651-d522-4746-a8b4-9385e073e32d",
+        "bedType": "single",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "e19382c4-62c6-4ae7-a76d-4366588d9dee",
+        "bedType": "doubleSuperior",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "2a465d3a-3423-4859-91bd-9fd62327a30e",
+        "bedType": "doubleSuperior",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "8ed5f1de-9aef-4ddf-ac52-180f8d704ddb",
+        "bedType": "doubleSuperior",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "6a483394-728e-454e-b703-d33f36e6081b",
+        "bedType": "single",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "60b12725-7b61-4021-a657-20cfc6aff7d8",
+        "bedType": "double",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "9936564b-0d6c-4c18-a704-c89913c6abcb",
+        "bedType": "single",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "513392be-808b-4f52-8c3b-3263477da822",
+        "bedType": "suite",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "d7f8ca22-9c6d-4d09-bcad-9c411e508fa7",
+        "bedType": "single",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "518a507d-8c45-4fb1-938d-11daa0088045",
+        "bedType": "doubleSuperior",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "22f733a1-ae6a-45dc-aef7-aee3bf7660a9",
+        "bedType": "suite",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "e83b8271-e1dc-406e-9faf-507c5a597a80",
+        "bedType": "double",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "83ad9187-2727-49ff-a804-26195ae768b6",
+        "bedType": "double",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "80d6124b-b7e6-4d64-bedb-b33ca8edb1e5",
+        "bedType": "single",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "cb05ada4-1d10-4ef5-8b9d-0ba7edcfb94c",
+        "bedType": "double",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "d4bd6308-0961-4bf5-8fb5-6ac8bde33ce0",
+        "bedType": "doubleSuperior",
+        "status": true,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    },
+    {
+        "id": "3226f2b8-c03f-472f-ae48-9767add688ab",
+        "bedType": "suite",
+        "status": false,
+        "facilites": ["bathub", "coffeSet"],
+        "price": 200,
+        "discount": 10,
+        "doorNumber": 1,
+        "floorNumber": 1
+    }
+]
